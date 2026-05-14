@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zkrZxUZB1hZi2pDqs0LJ/k9z/Z+EgrwGRN6c9KvV/Ys=",
+  "Source": "VideoDownloader.API",
+  "BasePath": "_content/VideoDownloader.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
